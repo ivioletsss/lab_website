@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: LabWebsite
 subtitle: Introduction
-description:欢迎访问本实验室主页！我们致力于探索前沿的人工智能、人机交互与脑科学交叉领域，聚焦脑电信号（EEG）在认知理解、行为建模与智能反馈系统中的创新应用。团队成员均来自海南大学，欢迎交流与合作。
+description:"欢迎访问本实验室主页！我们致力于探索前沿的人工智能、人机交互与脑科学交叉领域，聚焦脑电信号（EEG）在认知理解、行为建模与智能反馈系统中的创新应用。团队成员均来自海南大学，欢迎交流与合作。"
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
